@@ -1,0 +1,1 @@
+git clone https://github.com/r-o-b-o-t-o/azerothcore-armory.git
